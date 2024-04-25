@@ -3,7 +3,9 @@
 /* Pc */
 @media (min-width: 64em){
     
-   
+    #slider{
+        padding-top: 35%;
+    }
 }
 
 /* tablet - mobile */
