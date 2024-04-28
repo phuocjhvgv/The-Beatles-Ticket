@@ -56,3 +56,11 @@ modal.addEventListener('click',hideBuyTickets);
 modalContainer.addEventListener('click', function(event){
 event.stopPropagation();
 })
+
+// viết thông báo khi buy-tickets thành công
+
+var buytickets = document.querySelector('.buy-tickets');
+buytickets.addEventListener('click',function(){
+  alert("Thank you for purchasing the tickets successfully. Please check your email.")
+})
+
