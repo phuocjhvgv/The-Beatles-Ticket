@@ -1,3 +1,5 @@
+
+// js phần giao diện....
 var header = document.getElementById('header');
 var mobileMenu = document.getElementById('mobile-menu');
 var headerHeight = header.clientHeight;
