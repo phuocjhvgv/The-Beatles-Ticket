@@ -203,10 +203,12 @@ html{
 #slider {
    margin-top: 46px;
    padding-top: 50%;
-   background: url('../img/slider/pexels-pixabay-416831.jpg') top center / cover  no-repeat;
+   background: url('../img/slider/a4-1683952077666351726696.jpg') top center / cover  no-repeat;
    position: relative;
 
 }
+
+  
 
 #slider .text-content{
     position: absolute;
